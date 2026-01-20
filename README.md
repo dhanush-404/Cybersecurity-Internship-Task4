@@ -20,6 +20,7 @@ $ john --show hash.txt
 $ hashcat -m 0 -a 0 hash.txt rockyou.txt
 $ hashcat --show -m 0 hash.txt
 
+(screenshots are attached for hashing and cracking the hashed weak passwords(text))
 ### Attacks
 
 - Dictionary Attack
